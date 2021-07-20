@@ -9,6 +9,10 @@
 /coverage
 firebase
 axios
+/firebase
+/axios
+.firebase
+.axios
 # production
 /build
 
