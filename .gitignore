@@ -4,15 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
+*.firebase
+*.axios
 
 # testing
 /coverage
-firebase
-axios
-/firebase
-/axios
-.firebase
-.axios
 # production
 /build
 
