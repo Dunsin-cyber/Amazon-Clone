@@ -1,4 +1,21 @@
 # Getting Started with Create React App
+01f2b32c8766188bcc0ca49794dd374f
+amazon-clone = clone-d5122
+i need to install this react-currency-format
+https://images-na.ssl-images-amazon.com/images/I/41vMYgD92xL.jpg
+
+https://images-na.ssl-images-amazon.com/images/I/51I3UjD-Q1L.jpg
+
+
+https://m.media-amazon.com/images/I/81PtEw326aL._AC_UY327_FMwebp_QL65_.jpg
+
+https://m.media-amazon.com/images/I/71k+BCcDMJL._AC_UL480_FMwebp_QL65_.jpg
+
+
+https://m.media-amazon.com/images/I/81qBbmoVZ4L._AC_UL480_FMwebp_QL65_.jpg
+
+
+https://m.media-amazon.com/images/I/61HWqNOxIYL._AC_UL480_FMwebp_QL65_.jpg
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
